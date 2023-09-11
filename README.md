@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Chaeeerish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeerish&show_icons=true&theme=dracula) -->
+<!-- ![Chaeeerish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeerish&show_icons=true&theme=dracula&count_private=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeeerish&hide=jupyter%20notebook)](https://github.com/chaeeerish/github-readme-stats) -->
