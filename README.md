@@ -11,12 +11,12 @@ I'm currently studying backend development.
 I'm interested in vendor-neutrality.
 
 ### 🏅 CAREER
-- 구름톤 유니브 2기 벚꽃톤, 대상(카카오 대표이사상), `Mar 2024`
-- CJ UNIT 10기, 대학생 코딩 교육 봉사단, `Mar 2024 - `
-- Purdue University, Visitng Scholar, `Sep 2023 - Dec 2023`
-- 구름톤 유니브 2기 경기대학교, 대표, `Feb 2024 - `
-- K-Software Empowerment Bootcamp, 우수상 및 인기상, `Feb 2023`
-- 5th UMC Seoul Hackathon, 우수상, `Jan 2024`
+- **[구름톤 유니브 2기 벚꽃톤](https://www.instagram.com/9oormthonuniv.official/), 대상(카카오 대표이사상)**, `Mar 2024`
+- **[CJ UNIT 10기](https://www.cjolivenetworks.co.kr/sustainability/contribution/education_volunteers), 대학생 코딩 교육 봉사단**, `Mar 2024 - `
+- **[Purdue University](https://www.purdue.edu/), Visitng Scholar**, `Sep 2023 - Dec 2023`
+- **[구름톤 유니브 2기 경기대학교](https://9oormthon.university/), 대표**, `Feb 2024 - `
+- **K-Software Empowerment Bootcamp, 우수상 및 인기상**, `Feb 2023`
+- **[5th UMC Seoul Hackathon](https://www.makeus.in/umc), 우수상**, `Jan 2024`
 
 ### 💻 TECH STACK
 <div align="center">
